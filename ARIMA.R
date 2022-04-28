@@ -1,5 +1,3 @@
-setwd("E:/alishma/ACADEMICS/STUDY MATERIAL SEM 6/A2_EDA_CSE3506/LAB")
-
 library(forecast)
 library(tseries)
 
